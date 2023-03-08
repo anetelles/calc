@@ -1,0 +1,29 @@
+.titulo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 1em;
+}
+
+.botoes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-top: 0.1em;
+    gap: 0.5em;
+}
+
+.result{
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+}
